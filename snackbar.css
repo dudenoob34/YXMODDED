@@ -113,19 +113,19 @@
 }
 
 .js-snackbar__status.js-snackbar--success  {
-    background-color: #4caf50;
+    background-color: #990000;
 }
 
 .js-snackbar__status.js-snackbar--warning  {
-    background-color: #ff9800;
+    background-color: #990000;
 }
 
  .js-snackbar__status.js-snackbar--danger {
-    background-color: #b90909;
+    background-color: #990000;
 }
 
  .js-snackbar__status.js-snackbar--info {
-    background-color: #2196f3;
+    background-color: #990000;
 }
 
 .js-snackbar__icon {
