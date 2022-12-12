@@ -353,7 +353,7 @@ hr {
 .yex:hover {
   transform: scale(1.05);
   font-weight: bolder;
-  background: #990000;
+  background: linear-gradient(45deg, purple, blueviolet);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: none;
@@ -388,21 +388,21 @@ h1.loader-logo-title {
  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent; 
  text-shadow: none;
- filter: drop-shadow(0px 0px 6px #8515b1);
+ filter: drop-shadow(0px 0px 6px #990000);
 }
 
 img.loader-logo-image {
   width: 135px;
   height: 135px;
-  filter: drop-shadow(1px -1px 5px #8515b1);
+  filter: drop-shadow(1px -1px 5px #990000);
 }
 
 div.loader-bar {
   width: 100%;
   height: 10px;
-  background: #990000;
+  background: #FF0000;
   border-radius: 5px;
-  filter: drop-shadow(0 0 5px #8515b1);
+  filter: drop-shadow(0 0 5px #990000);
   animation: loader-bar-animation 1.5s linear forwards;
 }
 
